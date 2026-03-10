@@ -1,0 +1,3 @@
+# Gallery Canvas
+
+Project initialized.
